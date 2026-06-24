@@ -1,1 +1,1 @@
-we use git commit to record the changes in project's memory
+we use git commit to save staged changes to the repository
