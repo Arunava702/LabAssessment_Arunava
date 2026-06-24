@@ -1,0 +1,1 @@
+we use git commit to record the changes in project's memory
